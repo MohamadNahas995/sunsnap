@@ -1,16 +1,9 @@
-# sunsnap
+# Buzz Chat
 
-A new Flutter project.
+chat application build with flutter 
+using firbase for authentication and storage
+# Goal 
+the main goal of developing this app is to know how to use Firebase authentication and cloud storage
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+<img src="https://github.com/user-attachments/assets/f5681f2b-aa67-4cce-b7b2-7d2c8b5eb5f5" width="180">
